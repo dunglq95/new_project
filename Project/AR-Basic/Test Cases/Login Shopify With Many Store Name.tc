@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Shopify With Many Store Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b03904ca-9522-41d8-a069-57ca450abc07</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>218889cd-f533-4f42-a1e2-2b14676d7e71</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/StoreData/AR-Basic_StoreName</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>218889cd-f533-4f42-a1e2-2b14676d7e71</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>store_name</value>
+      <variableId>e7485c62-c027-42a2-bc51-3b38db5f49ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'42341231'</defaultValue>
+      <description></description>
+      <id>e7485c62-c027-42a2-bc51-3b38db5f49ed</id>
+      <masked>false</masked>
+      <name>store_name</name>
+   </variable>
+</TestCaseEntity>

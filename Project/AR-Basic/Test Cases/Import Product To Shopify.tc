@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Import Product To Shopify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14db7aba-9f27-40a7-981a-f3d60bf4998a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6b351dd2-7592-41a8-a9ea-56c476a94308</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/StoreData/AR-Basic_StoreData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6b351dd2-7592-41a8-a9ea-56c476a94308</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>store_name</value>
+      <variableId>8aa26273-9ae9-4a7c-ac81-86b2a63103f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6b351dd2-7592-41a8-a9ea-56c476a94308</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>product_file_source</value>
+      <variableId>fbe3dfd7-e474-4520-aad4-f1cc0f27b5da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8aa26273-9ae9-4a7c-ac81-86b2a63103f8</id>
+      <masked>false</masked>
+      <name>store_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fbe3dfd7-e474-4520-aad4-f1cc0f27b5da</id>
+      <masked>false</masked>
+      <name>product_file_source</name>
+   </variable>
+</TestCaseEntity>
