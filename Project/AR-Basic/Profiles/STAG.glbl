@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>STAG</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'42341231'</initValue>
+      <name>store_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dunglq+2@firegroup.io'</initValue>
+      <name>account_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vKt1x5SF9/uSUdT+6wLdyw=='</initValue>
+      <name>account_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1662018'</initValue>
+      <name>partner_ID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
